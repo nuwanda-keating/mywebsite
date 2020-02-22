@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+  color: #555;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  color:#66BFBF;
+  font-size: 5.625rem;
+  padding: 30px 0 0 0;
+  margin: 20px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding: 0 0 30px 0;
+  margin: 20px auto 0 auto;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #11999E;
+}
+a{
+  color:#11999E;
+}
+
+.my {
+  height: auto;
+  padding: 20px;
+  width: 150px;
+}
+.pro{
+  font-weight: normal;
+}
+
+.s, .s1 {
+  float: left;
+  margin-right: 30px;
+  height: auto;
+  padding: 20px;
+  width: 150px;
+}
+
+.top {
+  background-color: #0c7b93;
+  position: relative;
+  padding-top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.cloud1 {
+  position: absolute;
+  padding-top: 30px;
+  right: 300px;
+  top: 10px;
+}
+
+.intro{
+  width: 60%;
+  margin: auto;
+}
+
+/*.middle-container{
+  padding: 100px 0;
+}*/
+.skills{
+  width: auto;
+}
+.skill-row{
+  /*display: inline-block;*/
+  margin: 50px auto 100px auto;
+  text-align: left;
+  width: 50%;
+  line-height: 2;
+}
+
+.code-description{
+  clear: left;
+  padding: 10px;
+}
+
+.bottom-container{
+  padding: 10px;
+  background-color: #66BFBF;
+  font-size: 15px;
+}
+
+.co{
+  width: 60%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:16px;
+	padding:9px 14px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me{
+  padding-bottom: 30px;
+}
+
+.footer-link{
+  padding-left: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  margin: 100px auto;
+  width:  5%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+.copy{
+  color: #EAF6F6;
+}
